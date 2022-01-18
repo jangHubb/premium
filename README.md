@@ -9,7 +9,7 @@ $ pip2 install futures
 ```
 # Download Git
 ```
-$ git clone https://github.com/crackige/premium
+$ git clone https://github.com/jangHubb/premium
 ```
 # Run
 ```
